@@ -34,6 +34,6 @@ Push changes to GitHub and the site will auto-update.
 📧 Contact Me
 Email: dtpurushotham2005@gmail.com
 
-GitHub: github.com/porus2005
+GitHub: https://github.com/DONDAPATI-THEERDHA-PURUSHOTHAM
 
 © 2025 Dondapati Theerdha Purushotham | Powered by GitHub Pages
