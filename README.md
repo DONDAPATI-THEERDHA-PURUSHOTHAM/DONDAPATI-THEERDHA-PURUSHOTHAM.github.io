@@ -5,6 +5,8 @@ Welcome to my personal resume website! This project is a simple, static HTML/CSS
 ## 🌐 Live Website
    https://dondapati-theerdha-purushotham.github.io/
 
+### SCREENSHOT
+![control Screenshot](RESUME.png)
 ## 📄 Features
 
 - Clean and responsive design
