@@ -3,8 +3,7 @@
 Welcome to my personal resume website! This project is a simple, static HTML/CSS portfolio hosted using **GitHub Pages**. It showcases my education, skills, projects, and contact details.
 
 ## 🌐 Live Website
-
-👉 [https://porus2005.github.io](https://porus2005.github.io)
+   https://dondapati-theerdha-purushotham.github.io/
 
 ## 📄 Features
 
